@@ -1,0 +1,14 @@
+Flask==2.2.2
+Flask-CORS==3.0.10
+torch==1.13.0
+transformers==4.24.0
+OrderedDict
+GPT2TokenizerFast
+GPT2LMHeadModel
+collections
+transformers
+re
+flask_cors
+CORS
+jsonify
+request
